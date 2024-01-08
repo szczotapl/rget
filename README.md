@@ -1,7 +1,13 @@
 # rGet - Command-Line File Downloader
 
+## How to install:
+1. Download [zip with exe and dll](bin/rget.zip)
+2. Unpack these files to 'C:\Windows' directory or any other added to 'PATH'
+3. Done! you can now use rget inside command prompt!
+
 ## Usage:
 * rget <url> [options]
+
 
 ## Options:
 * -o, --output <output_file>     Specify the output file path.
