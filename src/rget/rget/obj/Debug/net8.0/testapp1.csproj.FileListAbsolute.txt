@@ -1,0 +1,17 @@
+C:\Users\rivio\source\repos\testapp1\testapp1\bin\Debug\net8.0\testapp1.exe
+C:\Users\rivio\source\repos\testapp1\testapp1\bin\Debug\net8.0\testapp1.deps.json
+C:\Users\rivio\source\repos\testapp1\testapp1\bin\Debug\net8.0\testapp1.runtimeconfig.json
+C:\Users\rivio\source\repos\testapp1\testapp1\bin\Debug\net8.0\testapp1.dll
+C:\Users\rivio\source\repos\testapp1\testapp1\bin\Debug\net8.0\testapp1.pdb
+C:\Users\rivio\source\repos\testapp1\testapp1\obj\Debug\net8.0\testapp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rivio\source\repos\testapp1\testapp1\obj\Debug\net8.0\testapp1.AssemblyInfoInputs.cache
+C:\Users\rivio\source\repos\testapp1\testapp1\obj\Debug\net8.0\testapp1.AssemblyInfo.cs
+C:\Users\rivio\source\repos\testapp1\testapp1\obj\Debug\net8.0\testapp1.csproj.CoreCompileInputs.cache
+C:\Users\rivio\source\repos\testapp1\testapp1\obj\Debug\net8.0\testapp1.dll
+C:\Users\rivio\source\repos\testapp1\testapp1\obj\Debug\net8.0\refint\testapp1.dll
+C:\Users\rivio\source\repos\testapp1\testapp1\obj\Debug\net8.0\testapp1.pdb
+C:\Users\rivio\source\repos\testapp1\testapp1\obj\Debug\net8.0\testapp1.genruntimeconfig.cache
+C:\Users\rivio\source\repos\testapp1\testapp1\obj\Debug\net8.0\ref\testapp1.dll
+C:\Users\rivio\source\repos\testapp1\testapp1\obj\Debug\net8.0\testapp1.csproj.AssemblyReference.cache
+C:\Users\rivio\source\repos\testapp1\testapp1\bin\Debug\net8.0\CommandLine.dll
+C:\Users\rivio\source\repos\testapp1\testapp1\obj\Debug\net8.0\testapp1.csproj.CopyComplete
