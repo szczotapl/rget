@@ -1,6 +1,12 @@
 # rget - Command-Line File Downloader
 
 ## How to install:
+### Installer
+1. Download latest installer from [here](https://github.com/riviox/rget/releases/tag/latest)
+2. Run the installer
+3. Done! you can now use rget inside command prompt!
+
+### Advanced way
 1. Download [zip with exe and dll](bin/rget.zip)
 2. Unpack these files to 'C:\Windows' directory or any other added to 'PATH'
 3. Done! you can now use rget inside command prompt!
