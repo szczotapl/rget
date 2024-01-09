@@ -1,4 +1,4 @@
-# rGet - Command-Line File Downloader
+# rget - Command-Line File Downloader
 
 ## How to install:
 1. Download [zip with exe and dll](bin/rget.zip)
