@@ -1,0 +1,17 @@
+D:\rGet\src\rget\rget\bin\Release\netcoreapp3.1\rget.exe
+D:\rGet\src\rget\rget\bin\Release\netcoreapp3.1\rget.deps.json
+D:\rGet\src\rget\rget\bin\Release\netcoreapp3.1\rget.runtimeconfig.json
+D:\rGet\src\rget\rget\bin\Release\netcoreapp3.1\rget.runtimeconfig.dev.json
+D:\rGet\src\rget\rget\bin\Release\netcoreapp3.1\rget.dll
+D:\rGet\src\rget\rget\bin\Release\netcoreapp3.1\rget.pdb
+D:\rGet\src\rget\rget\obj\Release\netcoreapp3.1\rget.csproj.AssemblyReference.cache
+D:\rGet\src\rget\rget\obj\Release\netcoreapp3.1\rget.GeneratedMSBuildEditorConfig.editorconfig
+D:\rGet\src\rget\rget\obj\Release\netcoreapp3.1\rget.AssemblyInfoInputs.cache
+D:\rGet\src\rget\rget\obj\Release\netcoreapp3.1\rget.AssemblyInfo.cs
+D:\rGet\src\rget\rget\obj\Release\netcoreapp3.1\rget.csproj.CoreCompileInputs.cache
+D:\rGet\src\rget\rget\obj\Release\netcoreapp3.1\rget.sourcelink.json
+D:\rGet\src\rget\rget\obj\Release\netcoreapp3.1\rget.dll
+D:\rGet\src\rget\rget\obj\Release\netcoreapp3.1\rget.pdb
+D:\rGet\src\rget\rget\obj\Release\netcoreapp3.1\rget.genruntimeconfig.cache
+D:\rGet\src\rget\rget\bin\Release\netcoreapp3.1\CommandLine.dll
+D:\rGet\src\rget\rget\obj\Release\netcoreapp3.1\rget.csproj.CopyComplete

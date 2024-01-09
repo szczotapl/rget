@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "+niYuY55SNGHshWSyjaAVSMs6gDsY8Qrjq9A/DrYus6cR+aYACltZSIKXJqC+GFWeZnpM+cC6vbFnST5PIGN7Q==",
+  "dgSpecHash": "/ks4hv8893Ve4PrQkV7D+lBCjbRhdKUpHTKeVGpAd/hRucR8xpIYxLE48mnP1Su41OzFbnE9ZlMEICAYogl2TA==",
   "success": true,
   "projectFilePath": "D:\\rGet\\src\\rget\\rget\\rget.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\rivio\\.nuget\\packages\\commandlineparser\\2.8.0\\commandlineparser.2.8.0.nupkg.sha512"
+    "C:\\Users\\rivio\\.nuget\\packages\\commandlineparser\\2.8.0\\commandlineparser.2.8.0.nupkg.sha512",
+    "C:\\Users\\rivio\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

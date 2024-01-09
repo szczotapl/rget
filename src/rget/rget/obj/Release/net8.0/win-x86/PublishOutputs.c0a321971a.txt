@@ -1,0 +1,2 @@
+D:\rGet\src\rget\rget\bin\Release\net8.0\publish\win-x86\rget.pdb
+D:\rGet\src\rget\rget\bin\Release\net8.0\publish\win-x86\rget.exe

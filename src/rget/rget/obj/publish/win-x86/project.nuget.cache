@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "AB3SfndhT0NVvy+mnOqhb5cLOMtlmqZ9UvjJY3ZASWGUHZRHbi5dAoUlX9fG2b1UJm4v8Dc0zNQRE6ZbrwMOEw==",
+  "success": true,
+  "projectFilePath": "D:\\rGet\\src\\rget\\rget\\rget.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rivio\\.nuget\\packages\\commandlineparser\\2.8.0\\commandlineparser.2.8.0.nupkg.sha512",
+    "C:\\Users\\rivio\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\rivio\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.0\\microsoft.netcore.app.runtime.win-x86.8.0.0.nupkg.sha512",
+    "C:\\Users\\rivio\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.0\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.0.nupkg.sha512",
+    "C:\\Users\\rivio\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.0\\microsoft.aspnetcore.app.runtime.win-x86.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
